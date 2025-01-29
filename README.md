@@ -1,4 +1,7 @@
 # doosan_conveyor
+
+유튜브 발표 및 동작 링크 : https://youtu.be/28nRwE2jrxM?si=RmfhXnJQsuh1HbQt
+
 ![Image](https://github.com/user-attachments/assets/b59ff973-9ade-4300-9a87-e364b99a0bd9)
 ![Image](https://github.com/user-attachments/assets/e6152b5f-74f6-41fd-ac37-0fd2d61e294b)
 ![Image](https://github.com/user-attachments/assets/7a1fe8c0-7282-49df-a9cd-8e66dc339fb3)
