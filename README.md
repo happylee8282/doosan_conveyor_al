@@ -1,5 +1,8 @@
 # doosan_conveyor
 
+TOOL : Superb Platform
+Link : https://blog-ko.superb-ai.com/what-is-superb-platform/
+
 유튜브 발표 및 동작 링크 : https://youtu.be/28nRwE2jrxM?si=RmfhXnJQsuh1HbQt
 
 ![Image](https://github.com/user-attachments/assets/b59ff973-9ade-4300-9a87-e364b99a0bd9)
